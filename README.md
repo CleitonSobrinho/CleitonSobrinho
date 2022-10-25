@@ -8,7 +8,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp;Quando eu tive o meu primeiro contato com a programação o foco era eu colocar em prática uma ideia sensacional que eu tive. Então comecei estudar programação, e foi aí que percebi  a quantidade de coisas legais que podemos criar escrevendo linhas de código. Desde então eu decidi que eu queria fazer isso na minha vida. Eu queria ser programador.
+- 👨🏻‍💻 &nbsp;Quando eu tive o meu primeiro contato com a programação o foco era eu colocar em prática uma ideia sensacional que eu tive. Então comecei estudar programação, e foi aí que percebi  a quantidade de coisas legais que podemos criar escrevendo linhas de código. Desde então eu decidi que eu queria fazer isso na minha vida. Eu quero ser programador.
 
 -  &nbsp; Atualmente, estudo com foco em front-end.
 -  &nbsp; Sou apaixonado por Futebol, aproveito meus tempinhos livres para jogar com os amigos. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
