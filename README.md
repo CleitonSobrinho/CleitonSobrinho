@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Cleiton, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Cleiton%20Sobrinho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cleiton-sobrinho-17702a249/"><img src="https://img.shields.io/badge/-Cleiton%20Sobrinho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cleiton1.life@gmail.com"><img src="https://img.shields.io/badge/-cleiton1.life@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
